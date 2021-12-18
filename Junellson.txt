@@ -1,0 +1,4 @@
+Nama	: Junellson
+Gender	: Laki-Laki
+Age	: 19
+Address	: Tanjung Balai Karimun
